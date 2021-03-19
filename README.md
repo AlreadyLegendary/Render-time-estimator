@@ -2,6 +2,10 @@
 this is a addon for blender that estimates the total render time for the whole animation it can also play a sound after each frame or at the end of the animation
 it can play a self-chosen sound file, or you can just use the sound given in this project
 
+output:
+
+![Schermopname (5)](https://user-images.githubusercontent.com/80715761/111796365-65f00e80-88c8-11eb-9c6c-8f45227400c0.png)
+
 if you want to use the sound in this project, you have to unzip it and take the waw-file out and then rezip it!
 If you don't like my sounds, :( you can just download or use a sound yourself, blender can handle almost every format!
 
